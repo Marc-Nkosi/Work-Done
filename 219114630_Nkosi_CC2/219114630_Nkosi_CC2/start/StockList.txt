@@ -1,0 +1,65 @@
+Product Name : Conquest
+Product Quantity : 5
+Product Price : R45000
+
+Product Name : Yaris
+Product Quantity : 3
+Product Price : R55000
+
+Product Name : Gasket
+Product Quantity : 200
+Product Price : R200
+
+Product Name : Wipers
+Product Quantity : 500
+Product Price : R350
+
+Product Name : Oil
+Product Quantity : 300
+Product Price : R150
+
+Product Name : Xenon
+Product Quantity : 4000
+Product Price : R200
+
+Product Name : Windscreen
+Product Quantity : 500
+Product Price : R650
+
+Product Name : Starter
+Product Quantity : 600
+Product Price : R450
+
+Product Name : Alternator
+Product Quantity : 300
+Product Price : R300
+
+Product Name : SPlug
+Product Quantity : 400
+Product Price : R125
+
+Product Name : Speakers
+Product Quantity : 3000
+Product Price : R570
+
+Product Name : Amplifier
+Product Quantity : 1500
+Product Price : R850
+
+Product Name : Lexus
+Product Quantity : 10
+Product Price : R450000
+
+RProduct Name : CD
+Product Quantity : 50
+Product Price : R150
+
+RProduct Name : Jumpers
+Product Quantity : 100
+Product Price : R150
+
+RProduct Name : 5
+Product Quantity : 5
+Product Price : R5
+
+R

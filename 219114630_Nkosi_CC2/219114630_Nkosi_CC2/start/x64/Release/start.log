@@ -1,0 +1,7 @@
+﻿  start.cpp
+C:\Users\marcu\source\repos\start\start.cpp(149): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 405 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  start.vcxproj -> C:\Users\marcu\source\repos\start\x64\Release\219114630_Nkosi_LM_CC2.exe
