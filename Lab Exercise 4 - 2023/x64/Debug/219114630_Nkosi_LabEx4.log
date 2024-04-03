@@ -1,0 +1,182 @@
+﻿  Ques5.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(58,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(7,1): error C2011: 'Agent': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(50,11): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(61,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(65,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(69,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,1): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,23): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(8,1): error C2011: 'Transaction': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(9,1): error C2504: 'Transaction': base class undefined
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(15,26): error C2614: 'SalesTransaction': illegal member initialization: 'Transaction' is not a base or member
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(21,16): error C2065: 'transactionNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(23,16): error C2065: 'date': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(25,16): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(27,16): error C2065: 'agentNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(30,9): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,37): error C2065: 'transactionNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,68): error C2065: 'date': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,92): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(36,69): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,31): error C2530: 'agentNum': references must be initialized
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): error C2451: a conditional expression of type 'Agent' is not valid
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): message : use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(50,33): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(51,13): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(56,13): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(8,24): error C2011: 'SalesTransaction': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(8,7): message : see declaration of 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(10,1): error C2504: 'Transaction': base class undefined
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(14,27): error C2614: 'RentalTransaction': illegal member initialization: 'Transaction' is not a base or member
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(26,26): error C2079: 'Sales' uses undefined class 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(36,18): error C2027: use of undefined type 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(41,18): error C2027: use of undefined type 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(46,9): error C3861: 'getAgentNum': identifier not found
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(46,26): error C2065: 'agentNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(48,9): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(48,28): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(52,9): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(12,11): error C2079: 'nameAgent' uses undefined class 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(19,22): error C2079: 'mySalesDisp' uses undefined class 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(23,23): error C2027: use of undefined type 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(8,7): message : see declaration of 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(23,43): error C3861: 'changeCommissionPerc': identifier not found
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(27,11): error C2079: 'agents' uses undefined class 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(28,22): error C2079: 'sales' uses undefined class 'SalesTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(37,17): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(44,16): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(57,33): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(62): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(62): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(65,44): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(72,28): error C2039: 'getAgentNum': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(72): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(74,47): error C2664: 'void RentalTransaction::calculateCommEarned(Agent &)': cannot convert argument 1 from 'Agent *' to 'Agent &'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(44,25): message : see declaration of 'RentalTransaction::calculateCommEarned'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(74,47): message : while trying to match the argument list '(Agent *)'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(75,57): error C2039: 'transactionNum': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(75,96): error C2039: 'date': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(75,126): error C2039: 'transactionAmt': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(79,44): error C2039: 'agentNum': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(87,33): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(92): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(92): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(94,44): error C2109: subscript requires array or pointer type
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(100,28): error C2039: 'getAgentNum': is not a member of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(9,7): message : see declaration of 'RentalTransaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(100): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(102,47): error C2664: 'void RentalTransaction::calculateCommEarned(Agent &)': cannot convert argument 1 from 'Agent *' to 'Agent &'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(44,25): message : see declaration of 'RentalTransaction::calculateCommEarned'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(102,47): message : while trying to match the argument list '(Agent *)'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(110,67): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques5.cpp(113,5): warning C4150: deletion of pointer to incomplete type 'Agent'; no destructor called
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+  Ques1.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(58,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ques2.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(58,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(61,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(65,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(69,1): warning C4305: '=': truncation from 'double' to 'float'
+  Ques3.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(58,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(7,1): error C2011: 'Agent': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(50,11): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(61,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(65,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(69,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,1): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,23): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,31): error C2530: 'agentNum': references must be initialized
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): error C2451: a conditional expression of type 'Agent' is not valid
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): message : use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(50,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ques4.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(16,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(58,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(7,1): error C2011: 'Agent': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(50,11): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(61,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(65,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(69,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,1): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(73,23): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(8,1): error C2011: 'Transaction': 'class' type redefinition
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(9,1): error C2504: 'Transaction': base class undefined
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(15,26): error C2614: 'SalesTransaction': illegal member initialization: 'Transaction' is not a base or member
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(21,16): error C2065: 'transactionNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(23,16): error C2065: 'date': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(25,16): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(27,16): error C2065: 'agentNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(30,9): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,37): error C2065: 'transactionNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,68): error C2065: 'date': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(35,92): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(36,69): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48): error C2027: use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,31): error C2530: 'agentNum': references must be initialized
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): error C2451: a conditional expression of type 'Agent' is not valid
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(48,22): message : use of undefined type 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques1.cpp(6,7): message : see declaration of 'Agent'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(50,33): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(51,13): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques3.cpp(56,13): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(10,1): error C2504: 'Transaction': base class undefined
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(14,27): error C2614: 'RentalTransaction': illegal member initialization: 'Transaction' is not a base or member
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(36,18): error C2027: use of undefined type 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(41,18): error C2027: use of undefined type 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques2.cpp(7,7): message : see declaration of 'Transaction'
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(46,9): error C3861: 'getAgentNum': identifier not found
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(46,26): error C2065: 'agentNum': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(48,9): error C2065: 'commissionEarned': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(48,28): error C2065: 'transactionAmt': undeclared identifier
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx4\Ques4.cpp(52,9): error C2065: 'commissionEarned': undeclared identifier
+  Generating Code...
