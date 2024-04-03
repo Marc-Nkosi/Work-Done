@@ -1,0 +1,4 @@
+﻿  219114630_Nkosi_LabEx1.cpp
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx1\219114630_Nkosi_LabEx1.cpp(26,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marcu\source\repos\219114630_Nkosi_LabEx1\219114630_Nkosi_LabEx1.cpp(11,95): warning C4101: 'FinalPrice': unreferenced local variable
+  219114630_Nkosi_LabEx1.vcxproj -> C:\Users\marcu\source\repos\219114630_Nkosi_LabEx1\x64\Debug\219114630_Nkosi_LabEx1.exe
